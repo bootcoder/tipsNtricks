@@ -17,3 +17,12 @@ Package Manager
 ## NO SUDO NO(osx only)
 
 
+## BASH Aliases
+
+## Flycut
+
+## Dropbox
+
+##
+
+
