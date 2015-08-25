@@ -7,6 +7,7 @@
 
 Turns out ```⌘ p``` is the fastest way to get around a working directory.
 
+### Code readability BEATS conciseness 10.times out of 10
 
 ## Chrome Extensions
 
