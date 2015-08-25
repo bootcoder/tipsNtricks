@@ -16,13 +16,12 @@ Package Manager
 
 ## NO SUDO NO(osx only)
 
-
 ## BASH Aliases
 
-## Flycut
+## Flycut (clipboard management)
+
+## Spectacle (window management)
 
 ## Dropbox
 
 ##
-
-
