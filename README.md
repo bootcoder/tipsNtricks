@@ -17,6 +17,24 @@ You rarely need to actually touch the mouse. Every time you do you must take you
 
 Turns out ```⌘ p``` is the fastest way to get around a working directory.
 
+### How to search
+Possibly the most important thing you will learn here.
+
+See rule number 1. Any time you are leaving the keyboard you are losing time.
+  - ⌘ + t -- open a new tab
+  - Enter search terms. The first word of your search should always be the language you are looking for.
+  - ⏎ -- to search google
+  - tab this will take focus from the search bar and place it in the results list. You know you're there because a little blue arrow will appear next to the first result.
+  - open the first 5 links into new tabs
+    - ⌘ + ⏎ -- to open link
+    - down arrow -- to go to next link
+  - Cycle through tabs using
+
+    ⌘ + ⇧ + {
+
+    ⌘ + ⇧ + }
+
+
 ### Take care of yourself
 
 This job can be very grueling. Your personal sanity is a thing you should be mindful of always.
@@ -56,7 +74,7 @@ Indentation - OMG do this. All the time. No matter what. Lots of languages are w
 [Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
 
 ## Hot Key your iTerm2
-```⌘+\``` is what I use.
+```⌘ + \``` is what I use.
 
 Also.... Use iTerm2 instead of terminal.
 
@@ -120,11 +138,21 @@ Installing something, check for a homebrew formula as your first option.
   - Dropbox
   - Alfred
   - Dash
+  - iTerm2
   - PostMan REST Client
 
 ### Links
 [Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
 [10 Tips to transition from JR to MID level Dev](http://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/)
+
+
+### Symbol Key
+  - ⌘ – the Command Key symbol
+  - ⇥ – the Tab Key symbol
+  - ⌥ – the Option Key symbol
+  - ⇧ – the Shift Key symbol
+  - ⏎ – the Return symbol
+
 
 ## Config Stuff
 
