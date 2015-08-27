@@ -15,7 +15,10 @@ So every little thing you can do to increase efficiency will pay vast dividends 
 
 You rarely need to actually touch the mouse. Every time you do you must take your hands complete off the keyboard. Grab the mouse. Go click the thing, then transfer back to the keyboard, find the home-row and finally start typing again...Precious seconds that add up to a huge savings.
 
-Turns out ```⌘ p``` is the fastest way to get around a working directory.
+It won't be easy but start building this skill now. Force yourself to leave the mouse behind. You're better than that mouse. You don't need no stinkin mouse. You have *Dev Hands*!!!
+
+
+Also worth noting that sublimes ```⌘ p``` is hands down the fastest way to get around a working directory.
 
 ### How to search
 Possibly the most important thing you will learn here.
@@ -71,7 +74,7 @@ Indentation - OMG do this. All the time. No matter what. Lots of languages are w
 
 ![MaintainYourShit](./readability.jpeg "Fer Realsies")
 
-## Git Workflow
+### Git Workflow
 
 Commit early and often
   - Build test through a feature
@@ -79,10 +82,10 @@ Commit early and often
   - Pass all tests for a feature
   - Commit
 
-## Chrome Extensions
+### Chrome Extensions
 [Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
 
-## Hot Key your iTerm2
+### Hot Key your iTerm2
 ```⌘ + \``` is what I use.
 
 Also.... Use iTerm2 instead of terminal.
