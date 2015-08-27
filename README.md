@@ -11,12 +11,29 @@ Turns out ```⌘ p``` is the fastest way to get around a working directory.
 ### Code readability BEATS conciseness 10.times out of 10
 
 ## Chrome Extensions
+[Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
 
 ## Hot Key your iTerm2
 Also.... Use iTerm2 instead of terminal.
 
-## Sublime Extensions
-Package Manager
+## Sublime Packages
+* Package Manager
+* Better CoffeeScript
+* BracketHighlighter
+* ERB Snippets
+* GitGutter
+* Haml
+* JSLint
+* Markdown HTML Preview
+* Package Control
+* PowerCursors
+* SideBarEnhancements
+* sublime-github
+* SublimeLinter
+* SublimeLinter-haml
+* TernJS
+* Theme - Brogrammer
+* Tomorrow Color Scheme
 
 ## Sublime Shortcuts
 [Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
