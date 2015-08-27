@@ -51,7 +51,7 @@ This job can be very grueling. Your personal sanity is a thing you should be min
   - Talk to yourself... A LOT
 
 ### Take care of your pair
-  - Their fragile too.
+  - They're fragile too.
 
 ### Follow the Golden Rule of BLOCKS
 As soon as you __OPEN__ the block __CLOSE__ the block.
