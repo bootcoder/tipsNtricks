@@ -37,6 +37,7 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
     ⌘ + ⇧ + {
 
     ⌘ + ⇧ + }
+  - ⌘ + w -- Close unwanted tabs
 
 
 ### Take care of yourself
@@ -47,6 +48,10 @@ This job can be very grueling. Your personal sanity is a thing you should be min
   - Yoga is great
   - Work life balance (**after dbc**) is super important
   - Always remember __You are not your Code__
+  - Talk to yourself... A LOT
+
+### Take care of your pair
+  - Their fragile too.
 
 ### Follow the Golden Rule of BLOCKS
 As soon as you __OPEN__ the block __CLOSE__ the block.
@@ -90,6 +95,11 @@ Commit early and often
 ```⌘ + \``` is what I use.
 
 Also.... Use iTerm2 instead of terminal.
+
+Get comfy with the pref here.
+  - Increase buffer size
+  - Increase Transparency
+  - Make a jazzy color scheme that works for you and you alone.
 
 ## Sublime
 
