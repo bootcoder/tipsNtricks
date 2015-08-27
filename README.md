@@ -60,7 +60,9 @@ Indentation - OMG do this. All the time. No matter what. Lots of languages are w
 
 Also.... Use iTerm2 instead of terminal.
 
-## Sublime Packages
+## Sublime
+
+### Packages
   * Package Manager
   * Better CoffeeScript
   * BracketHighlighter
@@ -79,7 +81,7 @@ Also.... Use iTerm2 instead of terminal.
   * Theme - Brogrammer
   * Tomorrow Color Scheme
 
-## Sublime Shortcuts
+### Sublime Shortcuts
 [Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
 
 Super useful ones
@@ -92,6 +94,7 @@ Super useful ones
 
 ### Linters
 The good the bad and the ugly
+
 Pros
   - help you see errors in your code
   - give you tips on best practices
@@ -101,10 +104,37 @@ Cons
   - can cause stability issues with Sublime
   - others best practices may not always align with your own.
 
+## General Stuff
 
-## NO SUDO NO(osx only)
+### NO SUDO NO(osx only)
+Short and sweet. If you are using ```sudo``` to install something on your mac....
 
-## BASH Aliases
+__You're doing it WRONG__
+
+Ask for help.
+Installing something, check for a homebrew formula as your first option.
+
+### APPS (osx)
+  - Flycut (clipboard management)
+  - Spectacle (window management)
+  - Dropbox
+  - Alfred
+  - Dash
+  - PostMan REST Client
+
+### Links
+[Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
+[10 Tips to transition from JR to MID level Dev](http://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/)
+
+## Config Stuff
+
+### BASH TIPS
+  - control + r == reverse search
+  - history
+  - man + / for search
+  - fn + leftArrow || fn + rightArrow key for front or end of line
+
+### BASH Aliases
 ```bash
 alias e=subl
 alias be="bundle exec"
@@ -122,7 +152,7 @@ alias dbc="cd ~/Dropbox/ACODE/DBC/dayJerbs"
 alias code="cd ~/Dropbox/ACODE/adBC
 ```
 
-## GIT Config
+### GIT Config
 ```bash
 [core]
   # Excludesfiles allows us to set a global list of things to ignore
@@ -187,23 +217,3 @@ alias code="cd ~/Dropbox/ACODE/adBC
   helper = cache --timeout=14400
 
 ```
-
-## APPS (osx)
-  - Flycut (clipboard management)
-  - Spectacle (window management)
-  - Dropbox
-  - Alfred
-  - Dash
-  - PostMan REST Client
-
-## Links
-[Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
-[10 Tips to transition from JR to MID level Dev](http://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/)
-
-
-
-## BASH TIPS
-control + r == reverse search
-history
-man + / for search
-fn + leftArrow || fn + rightArrow key for front or end of line
