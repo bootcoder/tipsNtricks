@@ -4,6 +4,7 @@
 
 
 ### HANDS OFF THE MOUSE!
+### Follow the Golden Rule of BLOCKS
 
 Turns out ```⌘ p``` is the fastest way to get around a working directory.
 
@@ -11,8 +12,19 @@ Turns out ```⌘ p``` is the fastest way to get around a working directory.
 
 ## Chrome Extensions
 
+## Hot Key your iTerm2
+Also.... Use iTerm2 instead of terminal.
+
 ## Sublime Extensions
 Package Manager
+
+## Sublime Shortcuts
+[Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
+- jump to line
+- jump to file
+- global search
+- duplicate line
+- select word (and repeat)
 
 ### Linters
 the good the bad and the ugly
@@ -32,6 +44,10 @@ the good the bad and the ugly
 ### Dropbox
 
 ### Alfred
+
+### Dash
+
+
 
 ### PostMan REST Client
 
