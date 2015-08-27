@@ -66,9 +66,18 @@ end
 This means writing functions that are easy for developers to read. Not just you, but the people that maintain your code down the road.
 
 Don't one line a thing because you want to look cool.
+
 Indentation - OMG do this. All the time. No matter what. Lots of languages are whitespace dependent, meaning you must indent correctly. Better to establish this habit now.
 
 ![MaintainYourShit](./readability.jpeg "Fer Realsies")
+
+## Git Workflow
+
+Commit early and often
+  - Build test through a feature
+  - Commit
+  - Pass all tests for a feature
+  - Commit
 
 ## Chrome Extensions
 [Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
@@ -109,6 +118,7 @@ Super useful ones
 - global search
 - duplicate line
 - select word (and repeat)
+- commenting code
 
 ### Linters
 The good the bad and the ugly
@@ -124,7 +134,7 @@ Cons
 
 ## General Stuff
 
-### NO SUDO NO(osx only)
+### NO SUDO NO(despite what the internet tell you)
 Short and sweet. If you are using ```sudo``` to install something on your mac....
 
 __You're doing it WRONG__
@@ -245,3 +255,13 @@ alias code="cd ~/Dropbox/ACODE/adBC
   helper = cache --timeout=14400
 
 ```
+
+
+
+
+
+explainshell
+bropages(gem)
+
+
+
