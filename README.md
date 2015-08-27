@@ -1,5 +1,6 @@
 # Tip && Tricks
 ## For the JR Dev in your life.
+
 **Literally** every thing below is IMHO
 
 
