@@ -80,6 +80,13 @@ Indentation - OMG do this. All the time. No matter what. Lots of languages are w
 
 ![MaintainYourShit](./readability.jpeg "Fer Realsies")
 
+### File Organization
+Good habits when it comes to naming and storing files is something that will pay off big time for you in the long run.
+
+Don't keep you files on the desktop.
+
+Spend some time to figure out a good file structure that works for you. Once you make a plan stick to it. Down the road you will have  away easier time tracking down projects because they will have been placed in to your structure by some standard of your creation.
+
 ### Git Workflow
 
 Commit early and often
