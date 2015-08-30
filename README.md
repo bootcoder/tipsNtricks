@@ -172,9 +172,28 @@ Installing something, check for a homebrew formula as your first option.
   - iTerm2
   - PostMan REST Client
 
+### Gems (Don't even think about this list till late phase 2 minimum.)
+  - bropages(gem)
+  - haml
+  - guard-rspec
+  - guard-livereload
+  - guard-spork
+  - pry-byebug
+  - pry-doc
+  - better_errors
+  - binding_of_caller
+  - dotenv
+  - ghrepo
+
+
 ### Links
 [Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
+
 [10 Tips to transition from JR to MID level Dev](http://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/)
+
+
+[explainshell](http://explainshell.com/)
+
 
 
 ### Symbol Key
@@ -280,9 +299,6 @@ alias code="cd ~/Dropbox/ACODE/adBC
 
 
 
-
-explainshell
-bropages(gem)
 
 
 
