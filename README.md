@@ -39,6 +39,10 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
     ⌘ + ⇧ + }
   - ⌘ + w -- Close unwanted tabs
 
+### General stuff
+  - Use Spotlight ⌘ + spacebar to search your system for files and applications.
+
+
 
 ### Take care of yourself
 
