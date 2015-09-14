@@ -60,6 +60,7 @@ This job can be very grueling. Your personal sanity is a thing you should be min
 
 ### Take care of your pair
   - They're fragile too.
+  - A happy pair will allow a much stronger learning environment for both of you.
 
 ### Follow the Golden Rule of BLOCKS
 As soon as you __OPEN__ the block __CLOSE__ the block.
@@ -91,7 +92,7 @@ Indentation - OMG do this. All the time. No matter what. Lots of languages are w
 ### File Organization
 Good habits when it comes to naming and storing files is something that will pay off big time for you in the long run.
 
-Don't keep you files on the desktop.
+Don't keep your files on the desktop.
 
 Spend some time to figure out a good file structure that works for you. Once you make a plan stick to it. Down the road you will have  away easier time tracking down projects because they will have been placed in to your structure by some standard of your creation.
 
@@ -102,6 +103,12 @@ Commit early and often
   - Commit
   - Pass all tests for a feature
   - Commit
+
+## Software
+
+Everything in this section should be taken with a grain of salt.
+
+__DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest.
 
 ### Chrome Extensions
 [Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
