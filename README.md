@@ -14,7 +14,7 @@ As a developer your time is a __Super Valuable Resource__...
 
 So every little thing you can do to increase efficiency will pay vast dividends over the course of your career.
 
-You rarely need to actually touch the mouse. Every time you do you must take your hands complete off the keyboard. Grab the mouse. Go click the thing, then transfer back to the keyboard, find the home-row and finally start typing again...Precious seconds that add up to a huge savings.
+You rarely need to actually touch the mouse. Every time you do you must take your hands completely off the keyboard. Grab the mouse. Go click the thing, then transfer back to the keyboard, find the home-row and finally start typing again...Precious seconds that add up to a huge savings every day.
 
 It won't be easy but start building this skill now. Force yourself to leave the mouse behind. You're better than that mouse. You don't need no stinkin mouse. You have *Dev Hands*!!!
 
