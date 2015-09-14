@@ -4,6 +4,12 @@
 **Literally** every thing below is IMHO
 
 
+### Symbol Guide
+  - ⌘ – the Command Key symbol
+  - ⇥ – the Tab Key symbol
+  - ⌥ – the Option Key symbol
+  - ⇧ – the Shift Key symbol
+  - ⏎ – the Return symbol
 
 
 ### Pro Tip Numero Uno
@@ -39,10 +45,8 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
     ⌘ + ⇧ + }
   - ⌘ + w -- Close unwanted tabs
 
-### General stuff
+### Spotlight || Alfred for system navigation
   - Use Spotlight ⌘ + spacebar to search your system for files and applications.
-
-
 
 ### Take care of yourself
 
@@ -116,17 +120,16 @@ Get comfy with the pref here.
 
 ### Packages
   * Package Manager
+  * SideBarEnhancements (ST3)
   * Better CoffeeScript
+  * All Autocomplete
   * BracketHighlighter
-  * ERB Snippets
+  * Markdown HTML Preview
   * GitGutter
+  * ERB Snippets
   * Haml
   * JSLint
-  * Markdown HTML Preview
-  * Package Control
   * PowerCursors
-  * SideBarEnhancements
-  * sublime-github
   * SublimeLinter
   * SublimeLinter-haml
   * TernJS
@@ -200,12 +203,6 @@ Installing something, check for a homebrew formula as your first option.
 
 
 
-### Symbol Key
-  - ⌘ – the Command Key symbol
-  - ⇥ – the Tab Key symbol
-  - ⌥ – the Option Key symbol
-  - ⇧ – the Shift Key symbol
-  - ⏎ – the Return symbol
 
 
 ## Config Stuff
