@@ -106,9 +106,19 @@ Commit early and often
 
 ## Software
 
+### General Stuff
 Everything in this section should be taken with a grain of salt.
 
 __DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest.
+
+
+### NO SUDO NO(despite what the INTERNET tells you)
+Short and sweet. If you are using ```sudo``` to install something on your mac....
+
+__You're doing it WRONG__
+
+- Ask for help.
+- When installing something, check for a homebrew formula as your first option.
 
 ### Chrome Extensions
 [Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
@@ -166,16 +176,6 @@ Pros
 Cons
   - can cause stability issues with Sublime
   - others best practices may not always align with your own.
-
-## General Stuff
-
-### NO SUDO NO(despite what the internet tell you)
-Short and sweet. If you are using ```sudo``` to install something on your mac....
-
-__You're doing it WRONG__
-
-Ask for help.
-Installing something, check for a homebrew formula as your first option.
 
 ### APPS (osx)
   - Flycut (clipboard management)
