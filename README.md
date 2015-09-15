@@ -29,7 +29,7 @@ It won't be easy but start building this skill now. Force yourself to leave the 
 Also worth noting that sublimes ```⌘ p``` is hands down the fastest way to get around a working directory.
 
 ### How to search
-Possibly the most important thing you will learn here.
+Super high on the list of most important things you will learn here.
 
 See rule number 1. Any time you are leaving the keyboard you are losing time.
   - ⌘ + t -- open a new tab
@@ -175,18 +175,13 @@ Main Folder
 ### Git Workflow
 
 Commit early and often
+
+A good starting work flow might be something like:
+  - Create your branch
   - Build test through a feature
   - Commit
   - Pass all tests for a feature
   - Commit
-
-## Software
-
-### General Stuff
-Everything in this section should be taken with a grain of salt.
-
-__DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest.
-
 
 ### NO SUDO NO(despite what the INTERNET tells you)
 Short and sweet. If you are using ```sudo``` to install something on your mac....
@@ -195,6 +190,13 @@ __You're doing it WRONG__
 
 - Ask for help.
 - When installing something, check for a homebrew formula as your first option.
+
+## Software
+
+### General Stuff
+Everything in this section should be taken with a grain of salt.
+
+__DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest.
 
 ### Chrome Extensions
 [Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
@@ -264,21 +266,40 @@ Cons
   - ghrepo
 
 
+### Editors
+
+  - Sublime
+  - Atom
+
+  If you are not using these you are denying yourself valuable resources on many fronts.
+
+  - As an OSX user you have a kickass development environment on your computer.
+  - Not knowing how to navigate that environment can be a serious determent on the job.
+
+Remote editors are nice...
+
+  - Coderpad.io
+  - REPL.it
+  - Nitrious.io
+
+  - Great for remote work and demonstrating concepts.
+  - Using them in a pair environment or on the job is just doubling the amount of work you have to do.
+  - You don't have access to all the very cool candy that Sublime gives you.
+  - Only good for single page scripts. You can't program a server in a virtual environment.
+
 ### Links
+
 [Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
 
 [10 Tips to transition from JR to MID level Dev](http://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/)
 
-
 [explainshell](http://explainshell.com/)
-
-
-
-
 
 ## Config Stuff
 
 ### BASH TIPS
+  Your milage may vary depending on how you have your BASH configured.
+
   - control + r == reverse search
   - history
   - man + / for search
