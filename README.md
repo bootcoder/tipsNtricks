@@ -5,11 +5,12 @@
 
 
 ### Symbol Guide
-  - ⌘ – the Command Key symbol
-  - ⇥ – the Tab Key symbol
-  - ⌥ – the Option Key symbol
-  - ⇧ – the Shift Key symbol
-  - ⏎ – the Return symbol
+  - ⌘ – Command Key symbol
+  - ⇥ – Tab Key symbol
+  - ⌃ – Control Key symbol
+  - ⌥ – Option Key symbol
+  - ⇧ – Shift Key symbol
+  - ⏎ – Return symbol
 
 
 ### Pro Tip Numero Uno
@@ -43,7 +44,21 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
     ⌘ + ⇧ + {
 
     ⌘ + ⇧ + }
+
   - ⌘ + w -- Close unwanted tabs
+
+
+### Sublime Shortcuts
+[Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
+
+Super useful ones
+- move lines vertically ``` ⌘ + ⌃ ```
+- jump to file ``` ⌘ + p + (fuzzy file name) ```
+- global search ``` ⌘ + ⇧ + f ```
+- duplicate line ``` ⌘ + ⇧ + d ```
+- select word (and repeat) ``` ⌘ + d ```
+- commenting code ``` ⌘ + / ```
+- jump to line ``` ⌘ + p + : + (line number (int)) ```
 
 ### Spotlight || Alfred for system navigation
   - Use Spotlight ⌘ + spacebar to search your system for files and applications.
@@ -63,7 +78,10 @@ This job can be very grueling. Your personal sanity is a thing you should be min
   - A happy pair will allow a much stronger learning environment for both of you.
 
 ### Follow the Golden Rule of BLOCKS
-As soon as you __OPEN__ the block __CLOSE__ the block.
+If it has a __BEGINNING__ it also has an __END__.
+
+Write the end as soon as you write the beginning and save your self countless hours counting def-end combinations
+
 ```ruby
 
 def thing_func
@@ -95,6 +113,64 @@ Good habits when it comes to naming and storing files is something that will pay
 Don't keep your files on the desktop.
 
 Spend some time to figure out a good file structure that works for you. Once you make a plan stick to it. Down the road you will have  away easier time tracking down projects because they will have been placed in to your structure by some standard of your creation.
+
+Here is a sample of what a well organized file structure looks like.
+```bash
+Main Folder
+├── 1Phase
+│   ├── 1Week
+│   ├── 2week
+│   ├── 3Week
+│   ├── assesments
+│   ├── breakouts
+│   ├── general
+│   ├── lectures
+│   └── phase-1-guide
+├── 2Phase
+│   ├── 4week
+│   ├── 5week
+│   ├── 6week
+│   ├── assessments
+│   ├── guides
+│   ├── lectures
+│   ├── other
+│   └── p-challenges
+├── 3Phase
+│   ├── challenges
+│   ├── lectures
+│   ├── other
+│   ├── phase-3-guide
+│   └── someshit
+├── Core_Coaches
+│   └── Initial\ prospectus.pages
+├── hackathons
+│   ├── notes.md
+│   ├── pitches.md
+│   ├── schedule.md
+│   └── team_leads.md
+├── hemlock
+│   ├── CONTRIBUTING.md
+│   ├── Gemfile
+│   ├── Gemfile.lock
+│   ├── README.md
+│   ├── Rakefile
+│   ├── bin
+│   ├── lib
+│   └── spec
+├── lectures
+│   ├── 1phase
+│   └── 2phase
+├── other
+│   ├── Ruby-Anagrams
+│   ├── devbootcamp.github.io
+│   ├── hemlock
+│   ├── node_sample2
+│   ├── react-7guis
+│   ├── retros
+│   └── rspec_rails_4
+└── phase-guides
+    └── RockDoves
+```
 
 ### Git Workflow
 
@@ -152,18 +228,6 @@ Get comfy with the pref here.
   * TernJS
   * Theme - Brogrammer
   * Tomorrow Color Scheme
-
-### Sublime Shortcuts
-[Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
-
-Super useful ones
-- move lines vertically
-- jump to line
-- jump to file
-- global search
-- duplicate line
-- select word (and repeat)
-- commenting code
 
 ### Linters
 The good the bad and the ugly
