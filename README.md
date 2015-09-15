@@ -277,24 +277,19 @@ Cons
   - Not knowing how to navigate that environment can be a serious determent on the job.
   - Sublime in particular has a metric ton of keyboard shortcuts that can greatly increase your efficiency as a dev.
 
-Remote editors are nice...
+Remote editors like:
 
-  - _Coderpad.io_
-  - _REPL.it_
-  - _Nitrious.io_
+  - REPL.it
+  - Nitrious.io
+  - Coderpad.io
+
+are nice... But come with some distinct drawbacks.
 
   - Great for remote work and demonstrating concepts.
   - Using them in a pair environment or on the job is just doubling the amount of work you have to do.
-  - You don't have access to all the very cool candy that Sublime gives you.
+  - Don't have access to all the very cool candy that Sublime gives you.
   - Only good for single page scripts. You can't program a server in a virtual environment.
 
-### Links
-
-[Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
-
-[10 Tips to transition from JR to MID level Dev](http://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/)
-
-[explainshell](http://explainshell.com/)
 
 ## Config Stuff
 
@@ -390,6 +385,13 @@ alias code="cd ~/Dropbox/ACODE/adBC
 
 ```
 
+### Links
+
+[Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
+
+[10 Tips to transition from JR to MID level Dev](http://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/)
+
+[explainshell](http://explainshell.com/)
 
 
 
