@@ -268,19 +268,20 @@ Cons
 
 ### Editors
 
-  - Sublime
-  - Atom
+  - __Sublime__ (my preference)
+  - __Atom__
 
-  If you are not using these you are denying yourself valuable resources on many fronts.
+  If one of these is not your go to option you are denying yourself valuable resources on many fronts.
 
   - As an OSX user you have a kickass development environment on your computer.
   - Not knowing how to navigate that environment can be a serious determent on the job.
+  - Sublime in particular has a metric ton of keyboard shortcuts that can greatly increase your efficiency as a dev.
 
 Remote editors are nice...
 
-  - Coderpad.io
-  - REPL.it
-  - Nitrious.io
+  - _Coderpad.io_
+  - _REPL.it_
+  - _Nitrious.io_
 
   - Great for remote work and demonstrating concepts.
   - Using them in a pair environment or on the job is just doubling the amount of work you have to do.
