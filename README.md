@@ -3,7 +3,6 @@
 
 **Literally** every thing below is IMHO
 
-
 ### Symbol Guide
   - ⌘ – Command Key symbol
   - ⇥ – Tab Key symbol
@@ -28,7 +27,7 @@ It won't be easy but start building this skill now. Force yourself to leave the 
 
 Also worth noting that sublimes ```⌘ p``` is hands down the fastest way to get around a working directory.
 
-### How to search
+### How to Google Search
 Super high on the list of most important things you will learn here.
 
 See rule number 1. Any time you are leaving the keyboard you are losing time.
