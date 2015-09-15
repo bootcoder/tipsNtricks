@@ -1,4 +1,4 @@
-# Tip && Tricks
+# Tips && Tricks
 ## For the JR Dev in your life.
 
 **Literally** every thing below is IMHO
@@ -279,9 +279,9 @@ Cons
 
 Remote editors like:
 
-  - REPL.it
-  - Nitrious.io
-  - Coderpad.io
+  - __REPL.it__
+  - __Nitrious.io__
+  - __Coderpad.io__
 
 are nice... But come with some distinct drawbacks.
 
