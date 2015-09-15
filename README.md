@@ -59,8 +59,6 @@ Super useful ones
 - commenting code ``` ⌘ + / ```
 - jump to line ``` ⌘ + p + : + (line number (int)) ```
 
-### Spotlight || Alfred for system navigation
-  - Use Spotlight ⌘ + spacebar to search your system for files and applications.
 
 ### Take care of yourself
 
@@ -200,6 +198,9 @@ __DO NOT__ go and install everything you see here. Look over, file away, take wh
 ### Chrome Extensions
 [Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
 
+### Spotlight || Alfred for system navigation
+  - Use Spotlight ⌘ + spacebar to search your system for files and applications.
+
 ### Hot Key your iTerm2
 ```⌘ + \``` is what I use.
 
@@ -288,6 +289,8 @@ are nice... But come with some distinct drawbacks.
   - Using them in a pair environment or on the job is just doubling the amount of work you have to do.
   - Don't have access to all the very cool candy that Sublime gives you.
   - Only good for single page scripts. You can't program a server in a virtual environment.
+  - Make it harder to have good git workflow.
+  - Slows down ability to continuously integrate code.
 
 
 ## Config Stuff
