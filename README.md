@@ -24,6 +24,8 @@ You rarely need to actually touch the mouse. Every time you do you must take you
 
 It won't be easy but start building this skill now. Force yourself to leave the mouse behind. You're better than that mouse. You don't need no stinkin mouse. You have *Dev Hands*!!!
 
+Also long term mouse usage can lead to RSI which is a seriously legit thing to avoid.
+
 
 Also worth noting that sublimes ```⌘ p``` is hands down the fastest way to get around a working directory.
 
@@ -59,6 +61,36 @@ Super useful ones
 - commenting code ``` ⌘ + / ```
 - jump to line ``` ⌘ + p + : + (line number (int)) ```
 
+### Copy & Paste Like a PRO!!!!!!!!!!!!
+
+AKA: DO NOT STRAIGHT COPY CODE!!!!!
+
+Do not just go to the INTERNET and find some answer on StackOverflow to paste into your code. This leads to a problem known as _CopyPasta_ which is what happens when you paste in a bunch of code without having rewritten it for yourself.
+
+I'm not telling you to not use code you find at all. What I am suggesting is this.
+
+```ruby
+def some_method_i_will_write
+
+end
+
+# def some_method_pasted_in
+#   some_logic_i_need.each do |thing|
+#     p thing
+#   end
+# end
+```
+Paste the code in and __IMMEDIATELY__ comment it out. Then use the commented code as a reference to build the thing that you are after.
+
+### Keep your working window clean.
+
+A clean working screen is super clutch.
+
+Basically I think you should always have your windows configured in a 66/33 split between the editor and terminal. Like so
+
+![CleanYourScreen](./screen_org.jpg "Makes me Happy")
+
+The point being that as a Ruby Dev you are looking at the Terminal __A LOT__. So keeping it in a spot that is visible all the time is really useful from an efficiency standpoint. Much easier to just glance at your terminal for output as opposed to having to switch over and then find the output.
 
 ### Take care of yourself
 
