@@ -233,7 +233,7 @@ __You're doing it WRONG__
 
 ## Software
 
-### General Stuff
+### First and Foremost
 Everything in this section should be taken with a grain of salt.
 
 __DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest.
