@@ -3,6 +3,9 @@
 
 **Literally** every thing below is IMHO
 
+## Table of Contents
+[How to Search Google](#how-to-google-search)
+
 ### Symbol Guide
   - ⌘ – Command Key symbol
   - ⇥ – Tab Key symbol
