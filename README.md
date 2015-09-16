@@ -239,7 +239,7 @@ Everything in this section should be taken with a grain of salt.
 __DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest.
 
 ### Chrome Extensions
-[Recomendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
+[Big List O Recommendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
 
 ### Spotlight || Alfred for system navigation
   - Use Spotlight ⌘ + spacebar to search your system for files and applications.
