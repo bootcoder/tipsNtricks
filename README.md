@@ -4,7 +4,13 @@
 **Literally** every thing below is IMHO
 
 ## Table of Contents
-[How to Search Google](#how-to-google-search)
+  - [How to Search Google](#how-to-google-search)
+  - [Sublime Shortcuts](#sublime-shortcuts)
+  - [Code Readability](#code-readability)
+  - [File Organization](#file-organization)
+  - [Software Suggestions](#software)
+  - [Config Options](#config-stuff)
+  - [Links](#links)
 
 ### Symbol Guide
   - ⌘ – Command Key symbol
@@ -130,7 +136,9 @@ end
 
 ```
 
-### Code readability BEATS conciseness 10.times out of 10
+### Code readability
+__Code readability BEATS conciseness 10.times out of 10__
+
 This means writing functions that are easy for developers to read. Not just you, but the people that maintain your code down the road.
 
 Don't one line a thing because you want to look cool.
