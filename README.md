@@ -3,6 +3,8 @@
 
 **Literally** every thing below is IMHO
 
+It's a lot of data in one spot so use the TOC.
+
 ## Table of Contents
   - [How to Search Google](#how-to-google-search)
   - [Sublime Shortcuts](#sublime-shortcuts)
@@ -74,7 +76,7 @@ Super useful ones
 
 AKA: DO NOT STRAIGHT COPY CODE!!!!!
 
-Do not just go to the INTERNET and find some answer on StackOverflow to paste into your code. This leads to a problem known as _CopyPasta_ which is what happens when you paste in a bunch of code without having rewritten it for yourself.
+Don't just go to the INTERNET and find some answer on StackOverflow to paste into your code. This leads to a problem known as _CopyPasta_ which is what happens when you paste in a bunch of code without having rewritten it for yourself. You forget to change a variable here, or access something out of scope there...... Pasting in code that leads to more time spent debugging is a losing trade.
 
 I'm not telling you to not use code you find at all. What I am suggesting is this.
 
@@ -313,11 +315,12 @@ Cons
 
   - __Sublime__ (my preference)
   - __Atom__
+  - __VIM__
 
   If one of these is not your go to option you are denying yourself valuable resources on many fronts.
 
   - As an OSX user you have a kickass development environment on your computer.
-  - Not knowing how to navigate that environment can be a serious determent on the job.
+  - Not knowing how to navigate that environment can be a serious detriment on the job.
   - Sublime in particular has a metric ton of keyboard shortcuts that can greatly increase your efficiency as a dev.
 
 Remote editors like:
