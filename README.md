@@ -91,7 +91,12 @@ end
 #   end
 # end
 ```
-Paste the code in and __IMMEDIATELY__ comment it out. Then use the commented code as a reference to build the thing that you are after.
+Paste the code in and __IMMEDIATELY__ comment it out. Then use the commented code as a reference to build the desired functionality from scratch.
+
+Benefits include:
+  - No issues with inproper variable naming.
+  - Increased Mucsle Memory.
+  - Helps ensure that you understand the code as it is implemented.
 
 ### Keep your working window clean.
 
@@ -109,9 +114,10 @@ This job can be very grueling. Your personal sanity is a thing you should be min
   - Eat well
   - Exercise often
   - Yoga is great
-  - Work life balance (**after dbc**) is super important
+  - **During DBC** Get the sleep you need to maintain functionality
+  - **After DBC** Work life balance  is super important
   - Always remember __You are not your Code__
-  - Talk to yourself... A LOT
+  - Talk to yourself... A LOT, you are your own best sounding board
 
 ### Take care of your pair
   - They're fragile too.
@@ -120,7 +126,7 @@ This job can be very grueling. Your personal sanity is a thing you should be min
 ### Follow the Golden Rule of BLOCKS
 If it has a __BEGINNING__ it also has an __END__.
 
-Write the end as soon as you write the beginning and save your self countless hours counting def-end combinations
+Write the end as soon as you write the beginning and save your self lots of frustration counting def-end combinations later.
 
 ```ruby
 
@@ -220,7 +226,7 @@ Commit early and often
 
 A good starting work flow might be something like:
   - Create your branch
-  - Build test through a feature
+  - Build test for a feature
   - Commit
   - Pass all tests for a feature
   - Commit
@@ -321,7 +327,7 @@ Cons
 
   - As an OSX user you have a kickass development environment on your computer.
   - Not knowing how to navigate that environment can be a serious detriment on the job.
-  - Sublime in particular has a metric ton of keyboard shortcuts that can greatly increase your efficiency as a dev.
+  - These editors have a metric ton of keyboard shortcuts that can greatly increase your efficiency as a dev.
 
 Remote editors like:
 
@@ -334,8 +340,9 @@ are nice... But come with some distinct drawbacks.
   - Great for remote work and demonstrating concepts.
   - Using them in a pair environment or on the job is just doubling the amount of work you have to do.
   - Don't have access to all the very cool candy that Sublime gives you.
-  - Only good for single page scripts. You can't program a server in a virtual environment.
-  - Make it harder to have good git workflow.
+  - Only really good for single page scripts.
+  -Difficult to program a server in a virtual environment.
+  - No Git workflow interface
   - Slows down ability to continuously integrate code.
 
 
