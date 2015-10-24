@@ -3,7 +3,7 @@
 
 **Literally** every thing below is IMHO
 
-It's a lot of data in one spot so use the TOC.
+It's a lot of data in one spot so use the TOC. You don't have to read it all in one go, actually you don't have to read it at all. Really this is just a spot where I have collected little things that I think make my life as a Dev better...
 
 ## Table of Contents
   - [How to Search Google](#how-to-google-search)
@@ -15,12 +15,12 @@ It's a lot of data in one spot so use the TOC.
   - [Links](#links)
 
 ### Symbol Guide
-  - ⌘ – Command Key symbol
-  - ⇥ – Tab Key symbol
-  - ⌃ – Control Key symbol
-  - ⌥ – Option Key symbol
-  - ⇧ – Shift Key symbol
-  - ⏎ – Return symbol
+  - ⌘ – Command Key
+  - ⇥ – Tab Key
+  - ⌃ – Control Key
+  - ⌥ – Option Key
+  - ⇧ – Shift Key
+  - ⏎ – Return
 
 
 ### Pro Tip Numero Uno
@@ -59,6 +59,8 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
 
   - ⌘ + w -- Close unwanted tabs
 
+  You should practice this process until you are at a point that you can research a particular thing in like 20 seconds.
+
 
 ### Sublime Shortcuts
 [Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
@@ -91,36 +93,39 @@ end
 #   end
 # end
 ```
-Paste the code in and __IMMEDIATELY__ comment it out. Then use the commented code as a reference to build the desired functionality from scratch.
+Paste the code in and __IMMEDIATELY__ comment it out. Then use the commented code as a reference to build the desired functionality from scratch. Once you are done erase the paste and move along.
 
 Benefits include:
-  - No issues with inproper variable naming.
-  - Increased Mucsle Memory.
+  - No issues with improper variable naming.
+  - Increased Muscle Memory.
   - Helps ensure that you understand the code as it is implemented.
 
 ### Keep your working window clean.
 
 A clean working screen is super clutch.
 
-Basically I think you should always have your windows configured in a 66/33 split between the editor and terminal. Like so
+You should always have your windows configured such that you can see the editor and the terminal without having to click around. I prefer a 66/33 split between the editor and terminal. Like so
 
 ![CleanYourScreen](./screen_org.jpg "Makes me Happy")
 
-The point being that as a Ruby Dev you are looking at the Terminal __A LOT__. So keeping it in a spot that is visible all the time is really useful from an efficiency standpoint. Much easier to just glance at your terminal for output as opposed to having to switch over and then find the output.
+ Using Spectacle is the easiest way to accomplish this. The point being that as a Ruby Dev you are looking at the Terminal __A LOT__. So keeping it in a spot that is visible all the time is really useful from an efficiency standpoint. Much easier to just glance at your terminal for output as opposed to having to switch over and then find the output.
+
+ Auto hiding the Doc can provide some more screen estate. Having the Dock take up a pretty big chunk of your screen is bad, especially on widescreen displays, where the Dock sits at the bottom and eats away precious height. Alt-Click the black bar to open preferences, then check auto-hide.
 
 ### Take care of yourself
 
 This job can be very grueling. Your personal sanity is a thing you should be mindful of always.
+  - Always remember __You are not your Code__
   - Eat well
   - Exercise often
   - Yoga is great
   - **During DBC** Get the sleep you need to maintain functionality
   - **After DBC** Work life balance  is super important
-  - Always remember __You are not your Code__
   - Talk to yourself... A LOT, you are your own best sounding board
 
 ### Take care of your pair
   - They're fragile too.
+  - Ensuring they are not left behind ensures you are rock solid.
   - A happy pair will allow a much stronger learning environment for both of you.
 
 ### Follow the Golden Rule of BLOCKS
@@ -151,7 +156,7 @@ This means writing functions that are easy for developers to read. Not just you,
 
 Don't one line a thing because you want to look cool.
 
-Indentation - OMG do this. All the time. No matter what. Lots of languages are whitespace dependent, meaning you must indent correctly. Better to establish this habit now.
+Indentation - OMG do this. All the time. No matter what. Lots of languages are whitespace dependent, meaning you must indent correctly. Better to establish this habit now. Also, I will look at you funny if your screen is all jacked up.
 
 ![MaintainYourShit](./readability.jpeg "Fer Realsies")
 
@@ -231,7 +236,7 @@ A good starting work flow might be something like:
   - Pass all tests for a feature
   - Commit
 
-### NO SUDO NO(despite what the INTERNET tells you)
+### NO SUDO NO(IDCare what the INTERNET tells you)
 Short and sweet. If you are using ```sudo``` to install something on your mac....
 
 __You're doing it WRONG__
@@ -257,7 +262,7 @@ __DO NOT__ go and install everything you see here. Look over, file away, take wh
 
 Also.... Use iTerm2 instead of terminal.
 
-Get comfy with the pref here.
+Get comfy with the pref's here.
   - Increase buffer size
   - Increase Transparency
   - Make a jazzy color scheme that works for you and you alone.
@@ -280,7 +285,7 @@ Get comfy with the pref here.
   * SublimeLinter-haml
   * TernJS
   * Theme - Brogrammer
-  * Tomorrow Color Scheme
+  * Color Scheme - Tomorrow Night
 
 ### Linters
 The good the bad and the ugly
@@ -298,7 +303,7 @@ Cons
   - Flycut (clipboard management)
   - Spectacle (window management)
   - Dropbox
-  - Alfred
+  - Alfred (configure to replace spotlight)
   - Dash
   - iTerm2
   - PostMan REST Client
@@ -349,14 +354,16 @@ are nice... But come with some distinct drawbacks.
 ## Config Stuff
 
 ### BASH TIPS
-  Your milage may vary depending on how you have your BASH configured.
+  Your mileage may vary depending on how you have your BASH configured.
 
-  - control + r == reverse search
-  - history
+  - If you want to find and execute a command that you know you've executed before, try using Ctrl + R and start typing any part of the command. You'll get filtered results that let you narrow them down to the command you're looking for.
+
+  - history then !(int) to fire that command
   - man + / for search
   - fn + leftArrow || fn + rightArrow key for front or end of line
 
 ### BASH Aliases
+These are the aliases that I use.
 ```bash
 alias e=subl
 alias be="bundle exec"
@@ -365,7 +372,6 @@ alias cl=clear
 alias ga="git ca"
 alias gpo="git push origin"
 alias gph="git push heroku"
-alias db:reset="be rake db:drop && be rake db:create && be rake db:migrate && be rake db:test:prepare && be rake db:seed && rails c"
 alias rials="rails"
 alias gti="git"
 alias shitgun="shotgun"
@@ -378,6 +384,7 @@ alias code="cd ~/Dropbox/ACODE/adBC
 ```bash
 [core]
   # Excludesfiles allows us to set a global list of things to ignore
+  # Great place for things like .env or secrets.yml
   excludesfile = ~/.gitignore_global
 
 # These are custom color options for the console
@@ -440,11 +447,15 @@ alias code="cd ~/Dropbox/ACODE/adBC
 
 ```
 
+The last line (credential), is super nice. This sets the timeout between authentication for a GitHub push.
+
 ### Links
 
 [Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
 
 [10 Tips to transition from JR to MID level Dev](http://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/)
+
+[Increase your Jr Dev Cred](https://www.codementor.io/learn-programming/15-ways-to-improve-as-a-junior-developer)
 
 [explainshell](http://explainshell.com/)
 
