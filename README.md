@@ -259,7 +259,7 @@ really really reallllllly try to avoid it...
 ### First and Foremost
 Everything in this section should be taken with a grain of salt.
 
-__DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest.
+__DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest. If you don't understand it or what it does __DO NOT INSTALL__, this as it turns out is a pretty good policy in general.
 
 ### Chrome Extensions
 [Big List O Recommendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
