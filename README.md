@@ -503,6 +503,24 @@ a decision about what works for you to implement.
 
 ```
 
+### After you graduate from DBC
+Never **EVER** refer to yourself as a 'JR Developer'
+
+You are better than that. There is no situation in which pigeonholing
+yourself into a JR role is a positive.
+
+Also, your __SUPER EGO__ has absolutely no place in your
+
+- job search,
+- interview process,
+- salary negotiations
+- day to day life as a Dev.
+
+History has shown that you are, upon graduation competent enough to compete
+with Mid-Level Devs from anywhere. And in fact a lot BETTER than many of the
+Devs you will meet in the workforce. Believe it! Make it your reality and
+knock 'all the things' out of all the parks at all the times.
+
 ### Links
 
 [Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
@@ -517,4 +535,12 @@ a decision about what works for you to implement.
 
 
 
+---
 
+
+```ruby
+def all_done
+  @mike.drop
+  puts "mike dropped"
+end
+```
