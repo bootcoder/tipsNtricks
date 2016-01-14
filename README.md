@@ -243,13 +243,16 @@ A good starting work flow might be something like:
   - Pass all tests for a feature
   - Commit
 
-### NO SUDO NO(IDCare what the INTERNET tells you)
+### NO SUDO NO (IDCare what the INTERNET tells you)
 Short and sweet. If you are using ```sudo``` to install something on your mac....
 
 __You're doing it WRONG__
 
 - Ask for help.
 - When installing something, check for a homebrew formula as your first option.
+
+* Disclaimer, there are times when ```sudo``` is the only way, but you should
+really really reallllllly try to avoid it...
 
 ## Software
 
@@ -455,6 +458,50 @@ alias code="cd ~/Dropbox/ACODE/adBC
 ```
 
 The last line (credential), is super nice. This sets the timeout between authentication for a GitHub push.
+
+### Sublime User Settings
+
+This is lifted directly from my sublime user settings.
+
+DO NOT COPY PASTE!!!
+
+Just a reference for you, as with everything else here, analyze first, then make
+a decision about what works for you to implement.
+```bash
+{
+  "atomic_save": false,
+  "bold_folder_labels": true,
+  "caret_style": "phase",
+  "color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+  "draw_white_space": "selection",
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": false,
+  "font_face": "Inconsolata",
+  "font_size": 21,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Emmet",
+    "PlainTasks",
+    "RubyTest",
+    "Theme - Farzher",
+    "Vintage"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "rulers":
+  [
+    80
+  ],
+  "save_on_focus_lost": true,
+  "spell_check": true,
+  "tab_size": 2,
+  "theme": "Tech49.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
+
+```
 
 ### Links
 
