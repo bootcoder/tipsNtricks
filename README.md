@@ -540,7 +540,6 @@ knock 'all the things' out of all the parks at all the times.
 
 ```ruby
 def all_done
-  @mike.drop
-  puts "mike dropped"
+  puts "mike dropped" if @mike.drop
 end
 ```
