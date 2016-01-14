@@ -38,7 +38,9 @@ It won't be easy but start building this skill now. Force yourself to leave the 
 Also long term mouse usage can lead to RSI which is a seriously legit thing to avoid.
 
 
-Also worth noting that sublimes ```⌘ p``` is hands down the fastest way to get around a working directory.
+**MORAL OF THE STORY**
+
+```⌘ p``` in Sublime is hands down the fastest way to get around a working directory. Each application should be opened in its own sublime window ( subl . from command line @ application root)
 
 ### How to Google Search
 Super high on the list of most important things you will learn here.
@@ -73,6 +75,11 @@ Super useful ones
 - select word (and repeat) ``` ⌘ + d ```
 - commenting code ``` ⌘ + / ```
 - jump to line ``` ⌘ + p + : + (line number (int)) ```
+
+### Make your code easy to read
+Limit the length of your lines to 80 characters.
+A neat way to remember this is to set a ruler in Sublime User settings.
+```"rulers": [80]```
 
 ### Copy & Paste Like a PRO!!!!!!!!!!!!
 
