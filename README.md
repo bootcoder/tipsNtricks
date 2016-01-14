@@ -251,7 +251,7 @@ __You're doing it WRONG__
 - Ask for help.
 - When installing something, check for a homebrew formula as your first option.
 
-* Disclaimer, there are times when ```sudo``` is the only way, but you should
+**Disclaimer** There are times when ```sudo``` is the only way, but you should
 really really reallllllly try to avoid it...
 
 ## Software
