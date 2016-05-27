@@ -294,7 +294,7 @@ Get comfy with the pref's here.
   * SublimeLinter
   * SublimeLinter-haml
   * TernJS
-  * Theme - Brogrammer
+  * Theme - Tech490
   * Color Scheme - Tomorrow Night
 
 ### Linters
@@ -315,6 +315,7 @@ Cons
   - Dropbox
   - Alfred (configure to replace spotlight)
   - Dash
+  - Hub
   - iTerm2
   - PostMan REST Client
 
@@ -329,7 +330,6 @@ Cons
   - better_errors
   - binding_of_caller
   - dotenv
-  - ghrepo
 
 
 ### Editors
