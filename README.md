@@ -294,7 +294,7 @@ Get comfy with the pref's here.
   * SublimeLinter
   * SublimeLinter-haml
   * TernJS
-  * Theme - Tech490
+  * Theme - Tech49
   * Color Scheme - Tomorrow Night
 
 ### Linters
