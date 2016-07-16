@@ -328,7 +328,6 @@ Cons
   - binding_of_caller
   - dotenv
 
-
 #### Editors
 
   - __Sublime__ (my preference)
@@ -356,7 +355,6 @@ are nice... But come with some distinct drawbacks.
   -Difficult to program a server in a virtual environment.
   - No Git workflow interface
   - Slows down ability to continuously integrate code.
-
 
 ## Config Stuff
 
@@ -528,12 +526,7 @@ knock 'all the things' out of all the parks at all the times.
 
 [explainshell](http://explainshell.com/)
 
-
-
-
-
 ---
-
 
 #### Contributing:
 
