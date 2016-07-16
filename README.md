@@ -1,4 +1,5 @@
 # Tips && Tricks
+
 ## For the JR Dev in your life.
 
 **Literally** every thing below is IMHO
@@ -43,6 +44,28 @@ Also long term mouse usage can lead to RSI which is a seriously legit thing to a
 
 ```⌘ p``` in Sublime is hands down the fastest way to get around a working directory. Each application should be opened in its own sublime window ( subl . from command line @ application root)
 
+#### Attitude Matters
+
+A lot actually. Coding as a career is essentially solving difficult puzzles through your editor everyday. Remember to maintain the correct attitude during your career as a dev. We are super fortunate to be in an industry which allows us to play as we work. No I don't mean ping pong or cornhole. I mean play with your puzzle. Maintain a joyous and fun level of interaction between your brain, your fingers and whatever is going on the screen. If you approach every challenge / feature / project with a poke / play attitude you will go much further and actually enjoy yourself as you do. *Gasp*
+
+Remain calm. For real. It sounds so simple and easy yet this easy simple thing is totally taken for granted. When you are not calm as a developer you lose the ability to focus logically on your code. You open yourself up to deep superego rabbit holes and you greatly reduce the efficiency of yourself as a developer. Establish this as a strong mental protocol by enforcing an internal state of happy play time.
+
+Example:
+
+When facing an increasing difficult coding challenge I do not say to myself
+
+### *ARRRR this is really hard, I don't know what to do, how do I even start, maybe I'm not good enough...
+
+<img src="http://viralportal.net/wp-content/uploads/2015/05/tumblr_lomf8k2BhD1qbbomu.jpg" height="300" width="300" >
+
+But rather something like
+
+### *Sweet!!! Boss Level Challenge. I'm going to earn a shitload of XP. Something I don't know, Sweet!!! gonna level up like crazy. Ok I wonder what happens if I do X, nope OK, what about Y....*
+
+<img src="http://s2.quickmeme.com/img/81/815ac8b36ace3b3b85757c416389dd9d6a5e24b116817a78a0fb655f906448c5.jpg" height="300" width="300" >
+
+Also worth noting here is opposite side of the coin. If you allow yourself to look upon this work as a strenuous endeavor... If you start a new problem and think 'OMG this is gonna be soooooo hard || How the F do I even begin to figure this out', you are setting yourself up for a bad time. If you gaze upon a problem with negative eyes you are only granting a perfect stage for your superego to come out and kick your ass. So.... Don't do that!
+
 #### How to Google Search
 Super high on the list of most important things you will learn here.
 
@@ -76,11 +99,6 @@ Super useful ones
 - select word (and repeat) ``` ⌘ + d ```
 - commenting code ``` ⌘ + / ```
 - jump to line ``` ⌘ + p + : + (line number (int)) ```
-
-#### Make your code easy to read
-Limit the length of your lines to 80 characters.
-A neat way to remember this is to set a ruler in Sublime User settings.
-```"rulers": [80]```
 
 #### Copy & Paste Like a PRO!!!!!!!!!!!!
 
@@ -139,7 +157,7 @@ This job can be very grueling. Your personal sanity is a thing you should be min
 #### Follow the Golden Rule of BLOCKS
 If it has a __BEGINNING__ it also has an __END__.
 
-Write the end as soon as you write the beginning and save your self lots of frustration counting def-end combinations later.
+Write the end as soon as you write the beginning and save your self loads of frustration counting def-end combos later.
 
 ```ruby
 
@@ -158,13 +176,18 @@ end
 ```
 
 #### Code readability
+
+Indentation - OMG do this. All the time. No matter what. Lots of languages are whitespace dependent, meaning you must indent correctly. Better to establish this habit now. Also, I will look at you funny if your code structure is all jacked up.
+
+Limit the length of your lines to 80 characters.
+A neat way to remember this is to set a ruler in Sublime User settings.
+```"rulers": [80]```
+
 __Code readability BEATS conciseness 10.times out of 10__
 
-This means writing functions that are easy for developers to read. Not just you, but the people that maintain your code down the road.
+This means writing functions that are easy for developers to read. Not just you, but future you and the people that maintain your code down the road.
 
 Don't one line a thing because you want to look cool.
-
-Indentation - OMG do this. All the time. No matter what. Lots of languages are whitespace dependent, meaning you must indent correctly. Better to establish this habit now. Also, I will look at you funny if your screen is all jacked up.
 
 ![MaintainYourShit](./readability.jpeg "Fer Realsies")
 
