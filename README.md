@@ -177,7 +177,9 @@ end
 
 ### Code readability
 
-Indentation - OMG do this. All the time. No matter what. Lots of languages are whitespace dependent, meaning you must indent correctly. Better to establish this habit now. Also, I will look at you funny if your code structure is all jacked up.
+You've heard people say that coding is an art form... This has to do with that.
+
+Indentation - OMG do this. I will look at you funny if your code structure is all jacked up. Indent properly all the time. Don't leave the line without ensuring it is indented correctly. Lots of languages are whitespace dependent, meaning you are forced to indent correctly. Better to establish this habit now. No I don't mean get good at using Sublime auto re-indent command. I mean actually establish a habit of indenting correctly on your own. Preferable with tabs set to 2. :-)
 
 Limit the length of your lines to 80 characters.
 A neat way to remember this is to set a ruler in Sublime User settings.
@@ -188,6 +190,8 @@ __Code readability BEATS conciseness 10.times out of 10__
 This means writing functions that are easy for developers to read. Not just you, but future you and the people that maintain your code down the road.
 
 Don't one line a thing because you want to look cool.
+
+Don't leave a bunch of unnecessary comments or debugging print statements in your code at time of commit.
 
 ![MaintainYourShit](./readability.jpeg "Fer Realsies")
 
