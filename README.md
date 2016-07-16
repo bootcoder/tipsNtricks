@@ -15,7 +15,7 @@ It's a lot of data in one spot so use the TOC. You don't have to read it all in 
   - [Config Options](#config-stuff)
   - [Links](#links)
 
-#### Symbol Guide
+### Symbol Guide
   - ⌘ – Command Key
   - ⇥ – Tab Key
   - ⌃ – Control Key
@@ -25,7 +25,7 @@ It's a lot of data in one spot so use the TOC. You don't have to read it all in 
 
 ---
 
-#### Pro Tip Numero Uno
+### Pro Tip Numero Uno
 
 __HANDS OFF THE F*&^%ING MOUSE!!!__
 
@@ -44,7 +44,7 @@ Also long term mouse usage can lead to RSI which is a seriously legit thing to a
 
 ```⌘ p``` in Sublime is hands down the fastest way to get around a working directory. Each application should be opened in its own sublime window ( subl . from command line @ application root)
 
-#### Attitude Matters
+### Attitude Matters
 
 A lot actually. Coding as a career is essentially solving difficult puzzles through your editor everyday. Remember to maintain the correct attitude during your career as a dev. We are super fortunate to be in an industry which allows us to play as we work. No I don't mean ping pong or cornhole. I mean play with your puzzle. Maintain a joyous and fun level of interaction between your brain, your fingers and whatever is going on the screen. If you approach every challenge / feature / project with a poke / play attitude you will go much further and actually enjoy yourself as you do. *Gasp*
 
@@ -66,7 +66,7 @@ But rather something like
 
 Also worth noting here is opposite side of the coin. If you allow yourself to look upon this work as a strenuous endeavor... If you start a new problem and think 'OMG this is gonna be soooooo hard || How the F do I even begin to figure this out', you are setting yourself up for a bad time. If you gaze upon a problem with negative eyes you are only granting a perfect stage for your superego to come out and kick your ass. So.... Don't do that!
 
-#### How to Google Search
+### How to Google Search
 Super high on the list of most important things you will learn here.
 
 See rule number 1. Any time you are leaving the keyboard you are losing time.
@@ -88,7 +88,7 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
   You should practice this process until you are at a point that you can research a particular thing in like 20 seconds.
 
 
-#### Sublime Shortcuts
+### Sublime Shortcuts
 [Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
 
 Super useful ones
@@ -100,7 +100,7 @@ Super useful ones
 - commenting code ``` ⌘ + / ```
 - jump to line ``` ⌘ + p + : + (line number (int)) ```
 
-#### Copy & Paste Like a PRO!!!!!!!!!!!!
+### Copy & Paste Like a PRO!!!!!!!!!!!!
 
 AKA: DO NOT STRAIGHT COPY CODE!!!!!
 
@@ -126,7 +126,7 @@ Benefits include:
   - Increased Muscle Memory.
   - Helps ensure that you understand the code as it is implemented.
 
-#### Keep your working window clean.
+### Keep your working window clean.
 
 A clean working screen is super clutch.
 
@@ -138,7 +138,7 @@ You should always have your windows configured such that you can see the editor 
 
  Auto hiding the Doc can provide some more screen estate. Having the Dock take up a pretty big chunk of your screen is bad, especially on widescreen displays, where the Dock sits at the bottom and eats away precious height. Alt-Click the black bar to open preferences, then check auto-hide.
 
-#### Take care of yourself
+### Take care of yourself
 
 This job can be very grueling. Your personal sanity is a thing you should be mindful of always.
   - Always remember __You are not your Code__
@@ -149,12 +149,12 @@ This job can be very grueling. Your personal sanity is a thing you should be min
   - **After DBC** Work life balance  is super important
   - Talk to yourself... A LOT, you are your own best sounding board
 
-#### Take care of your pair
+### Take care of your pair
   - They're fragile too.
   - Ensuring they are not left behind ensures you are rock solid.
   - A happy pair will allow a much stronger learning environment for both of you.
 
-#### Follow the Golden Rule of BLOCKS
+### Follow the Golden Rule of BLOCKS
 If it has a __BEGINNING__ it also has an __END__.
 
 Write the end as soon as you write the beginning and save your self loads of frustration counting def-end combos later.
@@ -175,7 +175,7 @@ end
 
 ```
 
-#### Code readability
+### Code readability
 
 Indentation - OMG do this. All the time. No matter what. Lots of languages are whitespace dependent, meaning you must indent correctly. Better to establish this habit now. Also, I will look at you funny if your code structure is all jacked up.
 
@@ -191,7 +191,7 @@ Don't one line a thing because you want to look cool.
 
 ![MaintainYourShit](./readability.jpeg "Fer Realsies")
 
-#### File Organization
+### File Organization
 Good habits when it comes to naming and storing files is something that will pay off big time for you in the long run.
 
 Don't keep your files on the desktop.
@@ -253,7 +253,7 @@ Main Folder
     └── RockDoves
 ```
 
-#### Git Workflow
+### Git Workflow
 
 Commit early and often
 
@@ -264,7 +264,7 @@ A good starting work flow might be something like:
   - Pass all tests for a feature
   - Commit
 
-#### NO SUDO NO (IDCare what the INTERNET tells you)
+### NO SUDO NO (IDCare what the INTERNET tells you)
 Short and sweet. If you are using ```sudo``` to install something on your mac....
 
 __You're doing it WRONG__
@@ -276,18 +276,18 @@ __You're doing it WRONG__
 
 ## Software
 
-#### First and Foremost
+### First and Foremost
 Everything in this section should be taken with a grain of salt.
 
 __DO NOT__ go and install everything you see here. Look over, file away, take what works and leave the rest. If you don't understand it or what it does __DO NOT INSTALL__, this as it turns out is a pretty good policy in general.
 
-#### Chrome Extensions
+### Chrome Extensions
 [Big List O Recommendations](https://github.com/bootcoder/htc_dev_settings/blob/master/chrome_extensions.md)
 
-#### Spotlight || Alfred for system navigation
+### Spotlight || Alfred for system navigation
   - Use Spotlight ⌘ + spacebar to search your system for files and applications.
 
-#### Hot Key your iTerm2
+### Hot Key your iTerm2
 ```⌘ + \``` is what I use.
 
 Also.... Use iTerm2 instead of terminal.
@@ -299,7 +299,7 @@ Get comfy with the pref's here.
 
 ## Sublime
 
-#### Packages
+### Packages
   * Package Manager
   * SideBarEnhancements
   * Better CoffeeScript
@@ -317,7 +317,7 @@ Get comfy with the pref's here.
   * Theme - Tech49
   * Color Scheme - Tomorrow Night
 
-#### Linters
+### Linters
 The good the bad and the ugly
 
 Pros
@@ -329,7 +329,7 @@ Cons
   - can cause stability issues with Sublime
   - others best practices may not always align with your own.
 
-#### APPS (osx)
+### APPS (osx)
   - Flycut (clipboard management)
   - Spectacle (window management)
   - Dropbox
@@ -339,7 +339,7 @@ Cons
   - iTerm2
   - PostMan REST Client
 
-#### Gems (Don't even think about this list till late phase 2 minimum.)
+### Gems (Don't even think about this list till late phase 2 minimum.)
   - bropages(gem)
   - haml
   - guard-rspec
@@ -351,7 +351,7 @@ Cons
   - binding_of_caller
   - dotenv
 
-#### Editors
+### Editors
 
   - __Sublime__ (my preference)
   - __Atom__
@@ -381,7 +381,7 @@ are nice... But come with some distinct drawbacks.
 
 ## Config Stuff
 
-#### BASH TIPS
+### BASH TIPS
   Your mileage may vary depending on how you have your BASH configured.
 
   - If you want to find and execute a command that you know you've executed before, try using Ctrl + R and start typing any part of the command. You'll get filtered results that let you narrow them down to the command you're looking for.
@@ -390,7 +390,7 @@ are nice... But come with some distinct drawbacks.
   - man + / for search
   - fn + leftArrow || fn + rightArrow key for front or end of line
 
-#### BASH Aliases
+### BASH Aliases
 These are the aliases that I use.
 ```bash
 alias e=subl
@@ -408,7 +408,7 @@ alias dbc="cd ~/Dropbox/ACODE/DBC/dayJerbs"
 alias code="cd ~/Dropbox/ACODE/adBC
 ```
 
-#### GIT Config
+### GIT Config
 ```bash
 [core]
   # Excludesfiles allows us to set a global list of things to ignore
@@ -477,7 +477,7 @@ alias code="cd ~/Dropbox/ACODE/adBC
 
 The last line (credential), is super nice. This sets the timeout between authentication for a GitHub push.
 
-#### Sublime User Settings
+### Sublime User Settings
 
 This is lifted directly from my sublime user settings.
 
@@ -521,7 +521,7 @@ a decision about what works for you to implement.
 
 ```
 
-#### After you graduate from DBC
+### After you graduate from DBC
 Never **EVER** refer to yourself as a 'JR Developer'
 
 You are better than that. There is no situation in which pigeonholing
@@ -539,7 +539,7 @@ with Mid-Level Devs from anywhere. And in fact a lot BETTER than many of the
 Devs you will meet in the workforce. Believe it! Make it your reality and
 knock 'all the things' out of all the parks at all the times.
 
-#### Links
+### Links
 
 [Tips for JR Devs](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
 
@@ -551,7 +551,7 @@ knock 'all the things' out of all the parks at all the times.
 
 ---
 
-#### Contributing:
+### Contributing:
 
 If you want to contribute in general I'm super open to it, as well as any feedback you might have.
 
