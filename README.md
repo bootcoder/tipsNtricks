@@ -312,6 +312,7 @@ Cons
   - Dropbox
   - Alfred (configure to replace spotlight)
   - Dash
+  - Hub
   - iTerm2
   - PostMan REST Client
 
@@ -326,7 +327,6 @@ Cons
   - better_errors
   - binding_of_caller
   - dotenv
-  - ghrepo
 
 
 #### Editors
