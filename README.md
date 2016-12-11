@@ -46,6 +46,8 @@ Also long term mouse usage can lead to RSI which is a seriously legit thing to a
 
 ### Attitude Matters
 
+[Start Here](http://blog.hiphipjorge.com/tips-for-learning-programming/)
+
 A lot actually. Coding as a career is essentially solving difficult puzzles through your editor everyday. Remember to maintain the correct attitude during your career as a dev. We are super fortunate to be in an industry which allows us to play as we work. No I don't mean ping pong or cornhole. I mean play with your puzzle. Maintain a joyous and fun level of interaction between your brain, your fingers and whatever is going on the screen. If you approach every challenge / feature / project with a poke / play attitude you will go much further and actually enjoy yourself as you do. *Gasp*
 
 Remain calm. For real. It sounds so simple and easy yet this easy simple thing is totally taken for granted. When you are not calm as a developer you lose the ability to focus logically on your code. You open yourself up to deep superego rabbit holes and you greatly reduce the efficiency of yourself as a developer. Establish this as a strong mental protocol by enforcing an internal state of happy play time.
