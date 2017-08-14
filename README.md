@@ -171,24 +171,24 @@ This job can be very grueling. Your personal sanity is a thing you should be min
 ---
 
 ### Follow the Golden Rule of BLOCKS
-If it has a __BEGINNING__ it also has an __END__.
+
+[Everything that has a __BEGINNING__ has an __END__](https://www.youtube.com/watch?v=UHCXsF6Kgvc)
 
 Write the end as soon as you write the beginning and save your self loads of frustration counting def-end combos later.
 
 ```ruby
-
 def thing_func
-
 end
+```
 
+```ruby
 thingy.each do
-
 end
+```
 
-{ }
-
-[ ]
-
+```ruby
+some_hash = { }
+some_array = [ ]
 ```
 
 ---
