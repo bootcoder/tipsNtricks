@@ -13,6 +13,7 @@ It's a lot of data in one spot so use the TOC. You don't have to read it all in 
   - [File Organization](#file-organization)
   - [Software Suggestions](#software)
   - [Config Options](#config-stuff)
+  - [Stuff Everbody Should Know](#stuff-everbody-should-know)
   - [Links](#links)
 
 ### Symbol Guide
@@ -544,6 +545,16 @@ History has shown that you are, upon graduation competent enough to compete
 with Mid-Level Devs from anywhere. And in fact a lot BETTER than many of the
 Devs you will meet in the workforce. Believe it! Make it your reality and
 knock 'all the things' out of all the parks at all the times.
+
+### Stuff Everybody Should Know
+
+Laurie Voss is a co-founder @ NPM. He gave this excellent talk a while back at DBC SF.
+
+Contrary to my standard advice, I would recommend every boot watch this talk @ 1X speed instead of the usual 1.5..2.5X
+
+Fair warning this talk is over 2 hours. So get comfy, grab a snack and take some notes.
+
+[Video Link](https://www.youtube.com/edit?o=U&video_id=fjtn3KCi17Y)
 
 ### Links
 
