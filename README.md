@@ -45,6 +45,8 @@ Also long term mouse usage can lead to RSI which is a seriously legit thing to a
 
 ```⌘ p``` in Sublime is hands down the fastest way to get around a working directory. Each application should be opened in its own sublime window ( subl . from command line @ application root)
 
+---
+
 ### Attitude Matters
 
 [Start Here](http://blog.hiphipjorge.com/tips-for-learning-programming/)
@@ -69,6 +71,8 @@ But rather something like
 
 Also worth noting here is opposite side of the coin. If you allow yourself to look upon this work as a strenuous endeavor... If you start a new problem and think 'OMG this is gonna be soooooo hard || How the F do I even begin to figure this out', you are setting yourself up for a bad time. If you gaze upon a problem with negative eyes you are only granting a perfect stage for your superego to come out and kick your ass. So.... Don't do that!
 
+---
+
 ### How to Google Search
 Super high on the list of most important things you will learn here.
 
@@ -90,6 +94,7 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
 
   You should practice this process until you are at a point that you can research a particular thing in like 20 seconds.
 
+---
 
 ### Sublime Shortcuts
 [Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
@@ -102,6 +107,8 @@ Super useful ones
 - select word (and repeat) ``` ⌘ + d ```
 - commenting code ``` ⌘ + / ```
 - jump to line ``` ⌘ + p + : + (line number (int)) ```
+
+---
 
 ### Copy & Paste Like a PRO!!!!!!!!!!!!
 
@@ -129,6 +136,8 @@ Benefits include:
   - Increased Muscle Memory.
   - Helps ensure that you understand the code as it is implemented.
 
+---
+
 ### Keep your working window clean.
 
 A clean working screen is super clutch.
@@ -140,6 +149,8 @@ You should always have your windows configured such that you can see the editor 
  Using Spectacle is the easiest way to accomplish this. The point being that as a Ruby Dev you are looking at the Terminal __A LOT__. So keeping it in a spot that is visible all the time is really useful from an efficiency standpoint. Much easier to just glance at your terminal for output as opposed to having to switch over and then find the output.
 
  Auto hiding the Doc can provide some more screen estate. Having the Dock take up a pretty big chunk of your screen is bad, especially on widescreen displays, where the Dock sits at the bottom and eats away precious height. Alt-Click the black bar to open preferences, then check auto-hide.
+
+---
 
 ### Take care of yourself
 
@@ -156,6 +167,8 @@ This job can be very grueling. Your personal sanity is a thing you should be min
   - They're fragile too.
   - Ensuring they are not left behind ensures you are rock solid.
   - A happy pair will allow a much stronger learning environment for both of you.
+
+---
 
 ### Follow the Golden Rule of BLOCKS
 If it has a __BEGINNING__ it also has an __END__.
@@ -178,6 +191,8 @@ end
 
 ```
 
+---
+
 ### Code readability
 
 You've heard people say that coding is an art form... This has to do with that.
@@ -197,6 +212,8 @@ Don't one line a thing because you want to look cool.
 Don't leave a bunch of unnecessary comments or debugging print statements in your code at time of commit.
 
 ![MaintainYourShit](./readability.jpeg "Fer Realsies")
+
+---
 
 ### File Organization
 Good habits when it comes to naming and storing files is something that will pay off big time for you in the long run.
@@ -260,6 +277,8 @@ Main Folder
     └── RockDoves
 ```
 
+---
+
 ### Git Workflow
 
 Commit early and often
@@ -271,6 +290,8 @@ A good starting work flow might be something like:
   - Pass all tests for a feature
   - Commit
 
+---
+
 ### NO SUDO NO (IDCare what the INTERNET tells you)
 Short and sweet. If you are using ```sudo``` to install something on your mac....
 
@@ -280,6 +301,8 @@ __You're doing it WRONG__
 - When installing something, check for a homebrew formula as your first option.
 
 **Disclaimer** There are times when ```sudo``` is the only way, like when installing homebrew, but you should try to avoid it and really really reallllllly be sure you absolutely need it before you go that route.
+
+---
 
 ## Software
 
@@ -385,6 +408,8 @@ are nice... But come with some distinct drawbacks.
   -Difficult to program a server in a virtual environment.
   - No Git workflow interface
   - Slows down ability to continuously integrate code.
+
+---
 
 ## Config Stuff
 
@@ -528,6 +553,8 @@ a decision about what works for you to implement.
 
 ```
 
+---
+
 ### After you graduate from DBC
 Never **EVER** refer to yourself as a 'JR Developer'
 
@@ -546,15 +573,19 @@ with Mid-Level Devs from anywhere. And in fact a lot BETTER than many of the
 Devs you will meet in the workforce. Believe it! Make it your reality and
 knock 'all the things' out of all the parks at all the times.
 
+---
+
 ### Stuff Everybody Should Know
 
 Laurie Voss is a co-founder @ NPM. He gave this excellent talk a while back at DBC SF.
 
-Contrary to my standard advice, I would recommend every boot watch this talk @ 1X speed instead of the usual 1.5..2.5X
+Contrary to my standard advice, I would recommend every boot watch this talk @ 1X speed instead of the usual 1.5..2.5X.
 
 Fair warning this talk is over 2 hours. So get comfy, grab a snack and take some notes.
 
 [Video Link](https://www.youtube.com/edit?o=U&video_id=fjtn3KCi17Y)
+
+---
 
 ### Links
 
