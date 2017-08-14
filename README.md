@@ -602,3 +602,9 @@ Process:
 As to the subject matter itself, if you don't agree in my choice of software that's awesome!
 
 But for seriouslies, I'm not saying I don't care about or appreciate how much better ```INSERT RANDO SOFTWARE TITLE HERE``` is. I'm just saying I've heard... it's cool. No need to track me down, shake me around and pontificate furiously whilst cycling through the virtues of ```INSERT RANDO SOFTWARE TITLE HERE```.
+
+---
+
+### Last but not least
+
+Make XKCD your homepage. *Seriously*
