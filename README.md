@@ -13,7 +13,7 @@ It's a lot of data in one spot so use the TOC. You don't have to read it all in 
   - [File Organization](#file-organization)
   - [Software Suggestions](#software)
   - [Config Options](#config-stuff)
-  - [Stuff Everbody Should Know](#stuff-everbody-should-know)
+  - [Stuff Everbody Should Know](#stuff-everybody-should-know)
   - [Links](#links)
 
 ### Symbol Guide
