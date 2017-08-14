@@ -246,22 +246,11 @@ Main Folder
 │   ├── other
 │   ├── phase-3-guide
 │   └── someshit
-├── Core_Coaches
-│   └── Initial\ prospectus.pages
 ├── hackathons
 │   ├── notes.md
 │   ├── pitches.md
 │   ├── schedule.md
 │   └── team_leads.md
-├── hemlock
-│   ├── CONTRIBUTING.md
-│   ├── Gemfile
-│   ├── Gemfile.lock
-│   ├── README.md
-│   ├── Rakefile
-│   ├── bin
-│   ├── lib
-│   └── spec
 ├── lectures
 │   ├── 1phase
 │   └── 2phase
@@ -273,8 +262,6 @@ Main Folder
 │   ├── react-7guis
 │   ├── retros
 │   └── rspec_rails_4
-└── phase-guides
-    └── RockDoves
 ```
 
 ---
