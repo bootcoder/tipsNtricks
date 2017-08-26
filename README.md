@@ -268,14 +268,7 @@ Main Folder
 
 ### Git Workflow
 
-Commit early and often
-
-A good starting work flow might be something like:
-  - Create your branch
-  - Build test for a feature
-  - Commit
-  - Pass all tests for a feature
-  - Commit
+![git_workflow](Git-Workflow.jpg)
 
 ---
 
