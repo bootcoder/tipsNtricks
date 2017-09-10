@@ -74,12 +74,15 @@ Also worth noting here is opposite side of the coin. If you allow yourself to lo
 ---
 
 ### How to Google Search
+
 Super high on the list of most important things you will learn here.
 
 Enter a search term then quickly parse over 4-5 results to narrow down your scope.
 
 #### DEPENDENCY NOTE:
+
 The functionality detailed below is no longer supported in Chrome by default. :-(
+
 Get this [extension](https://chrome.google.com/webstore/detail/google-search-keyboard-sh/iobmefdldoplhmonnnkchglfdeepnfhd) to restore it. :-)
 
 #### Search Process:
@@ -110,14 +113,36 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
 - Train your eye to look at the dates when you are doing the arrow thing to open results. Get used to skipping the older links in your first pass.
 
 Ex: ruby gsub escaped characters
+
 Ex: ruby remove formatting characters
 
 VS:
 
 !Ex: How do I get rid of special characters in a string?
+
 !Ex: remove special formatting from ruby string
 
 ---
+
+### Don't think, KNOW!!!
+
+Writing code is like being a puppy. Life is just better when you p on everything.
+
+When writing or debugging your code always know what things are evaluating to.
+- If you're unsure, _p it out._
+- If you think you know but maybe don't, _p it out._
+- If you're wondering if you made it inside some conditional block, _p it out._
+- If you can't remember, _p it out._
+- If, If If, (whatever), _p it out._
+
+P'ing your variables is so important, me and another Boot [made a gem](https://github.com/its-swats/attn_rubygem) to help.
+
+```ruby
+gem install attn
+```
+
+---
+
 
 ### Sublime Shortcuts
 [Complete List](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
