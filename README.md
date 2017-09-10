@@ -95,13 +95,16 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
   - open the first 5 links into new tabs
     - ⌘ + ⏎ -- to open link
     - down arrow -- to go to next link
-  - Cycle through tabs using
+    - Repeat until you have a decent cross section of suggestions from the internet. (I usually do like 5)
+  - Cycle through newly opened tabs using
 
     ⌘ + ⇧ + {
 
     ⌘ + ⇧ + }
 
   - ⌘ + w -- Close unwanted tabs
+
+  - Profit
 
   You should practice this process until you are at a point that you can research a particular thing in like 20 seconds.
 
@@ -128,18 +131,22 @@ VS:
 
 Writing code is like being a puppy. Life is just better when you p on everything.
 
-When writing or debugging your code always know what things are evaluating to.
-- If you're unsure, _p it out._
-- If you think you know but maybe don't, _p it out._
-- If you're wondering if you made it inside some conditional block, _p it out._
-- If you can't remember, _p it out._
-- If, If If, (whatever), _p it out._
+When generating or debugging your code always know what things are evaluating to.
+- If you're unsure, __p it out.__
+- If you think you know but maybe don't, __p it out.__
+- If you're wondering if you made it inside some conditional block, __p it out.__
+- If you haven't confirmed that you're even in the file you think you are, __p it out.__
+- If you can't remember, __p it out.__
+- If, If If, (whatever), __p it out.__
 
-P'ing your variables is so important, me and another Boot [made a gem](https://github.com/its-swats/attn_rubygem) to help.
+P'ing your variables is so important, another Boot and I made a gem to help.
+
 
 ```ruby
 gem install attn
 ```
+
+[Documentation](https://github.com/its-swats/attn_rubygem)
 
 ---
 
