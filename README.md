@@ -40,11 +40,11 @@ It won't be easy but start building this skill now. Force yourself to leave the 
 
 Also long term mouse usage can lead to RSI which is a seriously legit thing to avoid.
 
-
 **MORAL OF THE STORY**
 
 ```⌘ p``` in Sublime is hands down the fastest way to get around a working directory. Each application should be opened in its own sublime window ( subl . from command line @ application root)
 
+Side Note: Speeding up your search with a no mouse approach is crazy efficient.
 ---
 
 ### Attitude Matters
@@ -76,6 +76,14 @@ Also worth noting here is opposite side of the coin. If you allow yourself to lo
 ### How to Google Search
 Super high on the list of most important things you will learn here.
 
+Enter a search term then quickly parse over 4-5 results to narrow down your scope.
+
+#### DEPENDENCY NOTE:
+The functionality detailed below is no longer supported in Chrome by default. :-(
+Get this [extension](https://chrome.google.com/webstore/detail/google-search-keyboard-sh/iobmefdldoplhmonnnkchglfdeepnfhd) to restore it. :-)
+
+#### Search Process:
+
 See rule number 1. Any time you are leaving the keyboard you are losing time.
   - ⌘ + t -- open a new tab
   - Enter search terms. The first word of your search should always be the language you are looking for.
@@ -93,6 +101,21 @@ See rule number 1. Any time you are leaving the keyboard you are losing time.
   - ⌘ + w -- Close unwanted tabs
 
   You should practice this process until you are at a point that you can research a particular thing in like 20 seconds.
+
+#### Search Tips:
+
+- The first word of any search should be the name of the language you are working in.
+- Leave out non technical words you might use to explain your question to a human.
+- Keep your query as small and clean as possible.
+- Train your eye to look at the dates when you are doing the arrow thing to open results. Get used to skipping the older links in your first pass.
+
+Ex: ruby gsub escaped characters
+Ex: ruby remove formatting characters
+
+VS:
+
+!Ex: How do I get rid of special characters in a string?
+!Ex: remove special formatting from ruby string
 
 ---
 
