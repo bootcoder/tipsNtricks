@@ -139,14 +139,14 @@ When generating or debugging your code always know what things are evaluating to
 - If you can't remember, __p it out.__
 - If, If If, (whatever), __p it out.__
 
-P'ing your variables is so important, another Boot and I made a gem to help.
+P'ing your variables is so important, I made a gem to help.
 
 
 ```ruby
-gem install attn
+gem install extra_print
 ```
 
-[Documentation](https://github.com/its-swats/attn_rubygem)
+[Documentation](https://github.com/bootcoder/extra_print)
 
 ---
 
